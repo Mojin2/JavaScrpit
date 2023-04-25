@@ -1,0 +1,5 @@
+- react native -> mobile app
+- electron -> desktop app
+- three.js -> 3d library
+- socket.io -> live contents
+- ml5.js -> machine learning
